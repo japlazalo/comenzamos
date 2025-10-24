@@ -1,0 +1,2 @@
+# comenzamos
+Un primer acercamiento
